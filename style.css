@@ -1,0 +1,40 @@
+
+*{
+box-sizing: border-box;}
+
+body{background-color: rgb(41, 24, 24);
+    height: 200px;
+    width: 300px;
+    margin: auto;
+}
+
+.titulo-pincipal{color: rgb(251, 255, 251);
+font-size:medium;}
+
+.titulo{text-align: center;}
+
+form{background-color: rgb(175, 225, 225);
+width: 300px;
+height: 300px;
+border-radius: 2px;
+padding: 10px;
+}
+
+.email{margin: 10px;}
+.password{margin:10px;}
+.verificacion{
+margin: 10px;}
+
+
+
+.boton{text-align: center;
+}
+
+button{background-color: rgb(122, 176, 46);}
+
+.validacion{text-align: center;
+color:rgb(74, 74, 154)}
+
+a{text-decoration: none;
+border: 2px;
+color: rgb(251, 252, 253);}
