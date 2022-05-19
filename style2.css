@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;}
+    
+    body{background-color: rgb(41, 24, 24);
+        height: 200px;
+        width: 300px;
+    }
+    
+    
+    .titulo2{text-align: center;}
+    
+    form{background-color: rgb(175, 225, 225);
+    margin-top: 5px;
+    width: 300px;
+    height: 340px;
+    border-radius: 2px;
+    padding: 10px;
+    }
+    
+    .name{margin: 10px;}
+    .username{margin: 10px;}
+    .password{margin:10px;}
+    .verification{
+    margin: 10px;}
+    
+    
+    
+    .boton2{text-align: center;
+    }
+    
+    button{background-color: rgb(122, 176, 46);
+    padding: 5px;
+    margin:10px;}
+    
+    .enlace{text-align: justify;}
+    
+    a{text-decoration: none;;
+    border: 2px;}
